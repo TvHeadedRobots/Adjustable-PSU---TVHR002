@@ -1,0 +1,53 @@
+TVHR-002 (v.1)
+Adjustable PSU
+
+By TVHeadedRobots
+pneusolematic@mac.com
+
+
+BOM
+-----------------------------------------------------------
+
+ICs
+1x LM317T (TO-220)
+1x Mini 3-wire Volt Meter (www.adafruit.com/products/705)
+
+Resistors
+1x 1K
+2x 120 ohm
+
+Capicitors
+1x 1uF (electrolytic)
+1x 0.1uF (non-polarized)
+
+LEDs
+1x 3mm orange
+
+Potentiometers
+1x 5K panel mount (Alpha B5K)
+
+Switches
+1x 2P2T mini-slide switch
+
+Headers
+3x 2pin Male header
+1x 2pin Female header
+
+Connectors
+1x 2 position (Molex 22-23-2021)
+1x DC Power Jack 2.1mm w/ switch (Tayda Electronics A-2237)
+
+PCB
+1x 1/4 sized Perma-Proto (Adafruit)
+1x 1.75"x0.55" proto board (to mount Mini 3-wire Volt Meter)
+
+Knobs
+1x 6mm knurled shaft knob
+
+Hardware
+2x 1.25" 4-40 SS screws
+2x 4-40 SS nuts
+2x 2mm sheet metal screws (McMaster-Carr)
+2x 1" nylon spacers
+2x 9.5mm stand-offs w/ threaded post
+2x 3mm (inner dia.) nylon washers
